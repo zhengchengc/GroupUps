@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{75E71C69-3A8B-4292-9477-7CC422D15441}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Persistence/DataContext.cs">
+    <Files>
+      <File FileName="Persistence/DataContext.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GroupUps" expanded="True">
+            <Node name="Persistence" expanded="True">
+              <Node name="DataContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
